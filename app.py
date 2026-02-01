@@ -193,7 +193,7 @@ model = load_model()
 # --------------------------------------------------
 # HEADER
 # --------------------------------------------------
-st.title("♻️ ClassifAI - A Garbage Classifier App")
+st.title("♻️ GarbovisionAI - A Garbage Classifier App")
 st.markdown("Upload a image of the waste and click the Classify Waste button below to identify its type and understand its environmental impact.")
 
 uploaded_file = st.file_uploader("Upload an image (JPG, PNG, JPEG)", type=["jpg", "jpeg", "png"], key="uploader")
@@ -282,4 +282,5 @@ if uploaded_file:
                 st.markdown(f'<div class="impact-box">{line}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
+
 st.caption("SDG (Sustainable Development Goals) icons and environmental insights are displayed to promote sustainable waste management awareness.")
