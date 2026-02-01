@@ -1,4 +1,4 @@
-# ♻️ ClassifAI: Smart Waste Classification System
+# ♻️ GarboVisionAI: Smart Waste Classification System
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://classif-ai-a-garbage-classifier-app.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -131,4 +131,4 @@ Contributions are always welcome! If you have ideas for new features (like Camer
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-<div align="center"> <p>Made with ❤️ by <b>Nithin G J</b></p> <p> <a href="https://github.com/NithinGJ2005"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Profile" /> </a> <a href="https://classif-ai-a-garbage-classifier-app.streamlit.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Live Demo" /> </a> </p> </div>
+<div align="center"> <p>Made with ❤️ by <b>Jayanth B</b></p> <p> <a href="https://github.com/jayanthb2005"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Profile" /> </a> <a href="https://garbovision-ai.streamlit.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Live Demo" /> </a> </p> </div>
